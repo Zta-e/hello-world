@@ -1,2 +1,5 @@
 # hello-world
-Repo 4 test and experiments
+
+Hello, nice to see you!
+
+I currently study data engeneering and start my way towards data analysis using Python. 
